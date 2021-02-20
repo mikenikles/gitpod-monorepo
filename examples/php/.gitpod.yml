@@ -1,0 +1,3 @@
+tasks:
+  - init: echo "Init example PHP"
+    command: echo "Command example PHP"

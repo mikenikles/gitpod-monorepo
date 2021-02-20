@@ -1,0 +1,3 @@
+tasks:
+  - init: echo "Init example NodeJS"
+    command: echo "Command example NodeJS"
