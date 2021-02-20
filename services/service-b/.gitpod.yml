@@ -1,0 +1,3 @@
+tasks:
+  - init: echo "Init Service B"
+    command: echo "Command Service B"
